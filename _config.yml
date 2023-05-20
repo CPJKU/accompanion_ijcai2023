@@ -1,7 +1,4 @@
 title: "The ACCompanion: Combining Reactivity, Robustness, and Musical Expressivity in an Automatic Piano Accompanist"
-author:
-  name: Carlos Cancino-Chacón
-  email: "carlos_eduardo.cancino_chacon@jku.at"
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
