@@ -9,12 +9,12 @@ Make sure your paths are correct.
 To launch the experiment that generates the evaluation files please run:
 
 ```shell
-python ./main.py --follower <follower_name>
+python ./main.py --follower <follower_name> --path <path_to_match_files>
 ```
 
 Please make sure that the paths in main are your system's paths.
 You also need to download a directory of match, midi and musicxml files.
-The experiment uses the tuning set of the Magaloff/Zeilinger dataset.
+The experiment uses the tuning set of the *private* Magaloff/Zeilinger dataset.
 
 The ACCompanion is launched through the launch.py file in realtime and then stores the result files.
 
