@@ -1,7 +1,7 @@
 # ACCompanion Supplementary Material IJCAI 2023
 
 This repository contains the supplementary material of the paper [The ACCompanion: Combining Reactivity, Robustness, and Musical Expressivity in an Automatic Piano Accompanist](https://arxiv.org/abs/2304.12939), accepted at IJCAI 2023.
-This work was conducted at the [Institute of Computational Perception](https://www.jku.at/en/institute-of-computational-perception/) at JKU.
+This work was conducted at the [Institute of Computational Perception](https://www.jku.at/en/institute-of-computational-perception/) at JKU. Visit the corresponding website [here](https://cpjku.github.io/accompanion_ijcai2023/).
 
 Visit the official [ACCompanion](https://github.com/CPJKU/accompanion) Repository
 
