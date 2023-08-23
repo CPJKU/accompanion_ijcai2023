@@ -13,5 +13,5 @@ Based on our experience with repeated live demonstrations in front of various au
 ## Supplementary Materials
 
 * [Technical Appendix](https://cpjku.github.io/accompanion_ijcai2023/docs/technical_appendix.pdf)
-* GitHub Repository (coming soon!)
+* [GitHub Repository](https://github.com/CPJKU/accompanion)
 * [Videos](https://youtube.com/playlist?list=PLPUWmNCGflVNxPppflMNFMzWedlOhZePO)
